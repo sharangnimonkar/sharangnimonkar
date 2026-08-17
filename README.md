@@ -6,23 +6,19 @@
 
 ![SAS](https://img.shields.io/badge/SAS-528DD7?style=flat-square&logo=sas&logoColor=white)
 
-
-
+ 
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-
-
+ 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-
-
+ 
 
 ![CDISC](https://img.shields.io/badge/CDISC-SDTM%2FADaM-informational?style=flat-square)
 
-
-
+ 
 
 ![AI](https://img.shields.io/badge/AI-LLM%20%26%20Prompt%20Engineering-orange?style=flat-square)
 
@@ -57,5 +53,6 @@ End-to-end examples across R package development, SDTM/ADaM programming, TLG gen
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
 ](https://www.linkedin.com/in/sharang92/)
+
 ---
 📍 Based in the UK, open to clinical programmer and clinical & health data engineer roles.
