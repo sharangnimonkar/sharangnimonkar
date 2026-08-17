@@ -56,8 +56,6 @@ End-to-end examples across R package development, SDTM/ADaM programming, TLG gen
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)
 
-][()](https://www.linkedin.com/in/sharang92/
-)
-
+](https://www.linkedin.com/in/sharang92/)
 ---
 📍 Based in the UK, open to clinical programmer and clinical & health data engineer roles.
